@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Modal from "react-modal";
+
 import { Dashboard } from "./componets/Dashboard";
 import { Header } from "./componets/Header";
 import { NewTransactionModalModal } from "./componets/NewTransactionModal";
